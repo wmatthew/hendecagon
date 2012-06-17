@@ -10,10 +10,10 @@ This is a set of scripts to analyze feasibilty and design puzzles for that game.
 
 For example, imagine a player vs. computer game where the puzzle starts with all
 lights on. On a turn, the player or computer must turn off one light, which will
-turn off neighboring lights if they are off.
+turn off neighboring lights if they are on.
 
-If both players play well, what starting configurations will ensure the human
-has a shot at winning? What strategy should the computer follow? How long will
+If the computer plays perfectly, which starting configurations give the human
+a shot at winning? What strategy should the computer follow? How long will
 the game be?
 
 Questions like this are answered by the scripts here. Below is a description
@@ -22,7 +22,8 @@ of what each file does and how to use it.
 --------------------------------------------------------------------------------
 Technical Notes
 Note that these scripts are meant to quickly give the accurate answers to game
-design questions, not scale up billions of times or guarantee speedy performace.
+design questions. At times, performance and space have been sacrificed in
+favor of simplicity.
 
 Everything should work out of the box; there are no external libraries or
 environment modifications needed. All scripts were tested with this version
