@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1500"
+   height="1850"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="hendecagon_instructions.svg"
+   inkscape:export-filename="/Users/matthewwebber/Dropbox/Programs/Arduino/Hendecagon/instructions/hendecagon_instructions.png"
+   inkscape:export-xdpi="72"
+   inkscape:export-ydpi="72">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="-424.96885"
+     inkscape:cy="928.78239"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="908"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:snap-object-midpoints="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Grey Background"
+     transform="translate(0,500)"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#c2c2c2;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3931"
+       width="1500"
+       height="1850"
+       x="0"
+       y="-500" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="outer trace"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:4.4939127;stroke-opacity:0.1245791"
+       id="rect3934"
+       width="1245.506"
+       height="1595.5061"
+       x="127.24696"
+       y="127.24699" />
+  </g>
+  <g
+     inkscape:label="inner trace"
+     id="g3936"
+     inkscape:groupmode="layer"
+     style="display:inline">
+    <rect
+       y="202.00655"
+       x="202.00658"
+       height="1445.9868"
+       width="1095.9868"
+       id="rect3938"
+       style="fill:none;stroke:#000000;stroke-width:8.41300000000000026;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Signature">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="501.68533"
+       y="1700.2112"
+       id="text3941"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3943"
+         x="501.68533"
+         y="1700.2112"
+         style="font-size:70px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Copperplate;-inkscape-font-specification:Copperplate">Matthew Webber 2012</tspan></text>
+  </g>
+  <g
+     inkscape:label="Text and Colors"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,797.63782)"
+     style="display:inline">
+    <g
+       id="g3821">
+      <path
+         sodipodi:type="arc"
+         style="fill:#ffb100;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:21.22704887;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path3826"
+         sodipodi:cx="120.20815"
+         sodipodi:cy="164.4381"
+         sodipodi:rx="97.984795"
+         sodipodi:ry="97.984795"
+         d="m 218.19295,164.4381 c 0,54.1155 -43.86929,97.98479 -97.9848,97.98479 -54.115505,0 -97.984792,-43.86929 -97.984792,-97.98479 0,-54.11551 43.869287,-97.9848 97.984792,-97.9848 54.11551,0 97.9848,43.86929 97.9848,97.9848 z"
+         transform="matrix(0.63240066,0,0,-0.63240066,284.65796,533.67529)" />
+      <text
+         xml:space="preserve"
+         style="font-size:355.32427979px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="442.76227"
+         y="453.84442"
+         id="text3828"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="442.76227"
+           y="453.84442"
+           style="font-size:98.5135498px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Copperplate;-inkscape-font-specification:Copperplate"
+           id="tspan3830">Internal Error</tspan></text>
+    </g>
+    <g
+       id="g3816">
+      <path
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:21.22704887;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path3834"
+         sodipodi:cx="120.20815"
+         sodipodi:cy="164.4381"
+         sodipodi:rx="97.984795"
+         sodipodi:ry="97.984795"
+         d="m 218.19295,164.4381 c 0,54.1155 -43.86929,97.98479 -97.9848,97.98479 -54.115505,0 -97.984792,-43.86929 -97.984792,-97.98479 0,-54.11551 43.869287,-97.9848 97.984792,-97.9848 54.11551,0 97.9848,43.86929 97.9848,97.9848 z"
+         transform="matrix(0.63240066,0,0,-0.63240066,284.65793,383.67529)" />
+      <text
+         xml:space="preserve"
+         style="font-size:355.32427979px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="442.76227"
+         y="304.84448"
+         id="text3836"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="442.76227"
+           y="304.84448"
+           style="font-size:98.5135498px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Copperplate;-inkscape-font-specification:Copperplate"
+           id="tspan3838">You Win</tspan></text>
+    </g>
+    <g
+       id="g3811"
+       transform="translate(0,-300)">
+      <path
+         transform="matrix(0.63240066,0,0,-0.63240066,284.65796,233.67529)"
+         d="m 218.19295,164.4381 c 0,54.1155 -43.86929,97.98479 -97.9848,97.98479 -54.115505,0 -97.984792,-43.86929 -97.984792,-97.98479 0,-54.11551 43.869287,-97.9848 97.984792,-97.9848 54.11551,0 97.9848,43.86929 97.9848,97.9848 z"
+         sodipodi:ry="97.984795"
+         sodipodi:rx="97.984795"
+         sodipodi:cy="164.4381"
+         sodipodi:cx="120.20815"
+         id="path3842"
+         style="fill:#65a3ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:21.22704887;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3844"
+         y="154.84451"
+         x="442.76227"
+         style="font-size:355.32427979px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan3846"
+           style="font-size:98.5135498px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Copperplate;-inkscape-font-specification:Copperplate"
+           y="154.84451"
+           x="442.76227"
+           sodipodi:role="line">My Move</tspan></text>
+    </g>
+    <g
+       id="g3796"
+       transform="translate(0,150)">
+      <path
+         transform="matrix(0.63240066,0,0,-0.63240066,284.65794,83.67529)"
+         d="m 218.19295,164.4381 c 0,54.1155 -43.86929,97.98479 -97.9848,97.98479 -54.115505,0 -97.984792,-43.86929 -97.984792,-97.98479 0,-54.11551 43.869287,-97.9848 97.984792,-97.9848 54.11551,0 97.9848,43.86929 97.9848,97.9848 z"
+         sodipodi:ry="97.984795"
+         sodipodi:rx="97.984795"
+         sodipodi:cy="164.4381"
+         sodipodi:cx="120.20815"
+         id="path3850"
+         style="fill:#ff785d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:21.22704887;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3852"
+         y="4.8445129"
+         x="442.76227"
+         style="font-size:355.32427979px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan3854"
+           style="font-size:98.5135498px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Copperplate;-inkscape-font-specification:Copperplate"
+           y="4.8445129"
+           x="442.76227"
+           sodipodi:role="line">Incorrect</tspan></text>
+    </g>
+    <g
+       id="g3801"
+       transform="translate(0,150)">
+      <path
+         sodipodi:type="arc"
+         style="fill:#00ff22;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:21.22704887;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path3858"
+         sodipodi:cx="120.20815"
+         sodipodi:cy="164.4381"
+         sodipodi:rx="97.984795"
+         sodipodi:ry="97.984795"
+         d="m 218.19295,164.4381 c 0,54.1155 -43.86929,97.98479 -97.9848,97.98479 -54.115505,0 -97.984792,-43.86929 -97.984792,-97.98479 0,-54.11551 43.869287,-97.9848 97.984792,-97.9848 54.11551,0 97.9848,43.86929 97.9848,97.9848 z"
+         transform="matrix(0.63240066,0,0,-0.63240066,284.65796,-66.3247)" />
+      <text
+         xml:space="preserve"
+         style="font-size:355.32427979px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="442.7623"
+         y="-145.15549"
+         id="text3860"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="442.7623"
+           y="-145.15549"
+           style="font-size:98.5135498px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Copperplate;-inkscape-font-specification:Copperplate"
+           id="tspan3862">Correct</tspan></text>
+    </g>
+    <g
+       id="g3806">
+      <path
+         sodipodi:type="arc"
+         style="fill:#fcff00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:21.22704887000000085;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path3866"
+         sodipodi:cx="120.20815"
+         sodipodi:cy="164.4381"
+         sodipodi:rx="97.984795"
+         sodipodi:ry="97.984795"
+         d="m 218.19295,164.4381 c 0,54.1155 -43.86929,97.98479 -97.9848,97.98479 -54.115505,0 -97.984792,-43.86929 -97.984792,-97.98479 0,-54.11551 43.869287,-97.9848 97.984792,-97.9848 54.11551,0 97.9848,43.86929 97.9848,97.9848 z"
+         transform="matrix(0.63240066,0,0,-0.63240066,284.65794,-216.32471)" />
+      <text
+         xml:space="preserve"
+         style="font-size:355.32427979px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="442.76227"
+         y="-295.15549"
+         id="text3868"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="442.76227"
+           y="-295.15549"
+           style="font-size:98.5135498px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Copperplate;-inkscape-font-specification:Copperplate"
+           id="tspan3870">Your Move</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:355.32427979px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="342.19086"
+       y="-458.58405"
+       id="text3876"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="342.19086"
+         y="-458.58405"
+         style="font-size:130px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Copperplate;-inkscape-font-specification:Copperplate"
+         id="tspan3878">Hendecagon</tspan></text>
+    <g
+       id="g3826">
+      <path
+         transform="matrix(0.63240066,0,0,-0.63240066,284.65793,683.6753)"
+         d="m 218.19295,164.4381 c 0,54.1155 -43.86929,97.98479 -97.9848,97.98479 -54.115505,0 -97.984792,-43.86929 -97.984792,-97.98479 0,-54.11551 43.869287,-97.9848 97.984792,-97.9848 54.11551,0 97.9848,43.86929 97.9848,97.9848 z"
+         sodipodi:ry="97.984795"
+         sodipodi:rx="97.984795"
+         sodipodi:cy="164.4381"
+         sodipodi:cx="120.20815"
+         id="path3795"
+         style="fill:#e570ed;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:21.22704887;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3807"
+         y="604.84448"
+         x="442.76227"
+         style="font-size:355.32427979px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan3815"
+           style="font-size:98.5135498px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Copperplate;-inkscape-font-specification:Copperplate"
+           y="604.84448"
+           x="442.76227"
+           sodipodi:role="line">Menu</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:355.32427979px;font-style:normal;font-weight:normal;line-height:69.99999881%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="445.33368"
+         y="652.84448"
+         id="text3894"
+         sodipodi:linespacing="69.999999%"><tspan
+           sodipodi:role="line"
+           x="445.33368"
+           y="652.84448"
+           style="font-size:70px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:69.99999881%;font-family:Copperplate;-inkscape-font-specification:Copperplate"
+           id="tspan3896">press one button</tspan><tspan
+           id="tspan3898"
+           sodipodi:role="line"
+           x="445.33368"
+           y="701.84448"
+           style="font-size:70px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:69.99999881%;font-family:Copperplate;-inkscape-font-specification:Copperplate">to choose a level.</tspan><tspan
+           id="tspan3902"
+           sodipodi:role="line"
+           x="445.33368"
+           y="750.84448"
+           style="font-size:70px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:69.99999881%;font-family:Copperplate;-inkscape-font-specification:Copperplate">hold two to return.</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-196.07112"
+       y="882.23022"
+       id="text3921"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3923"
+         x="-196.07112"
+         y="882.23022" /></text>
+  </g>
+</svg>
