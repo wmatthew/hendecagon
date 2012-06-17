@@ -1,3 +1,4 @@
+# Ruby Stuff
 *.gem
 *.rbc
 .bundle
@@ -16,3 +17,6 @@ tmp
 .yardoc
 _yardoc
 doc/
+
+# OSX silliness
+.DS_Store
