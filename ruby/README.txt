@@ -1,3 +1,4 @@
+** CONTAINS PUZZLE SPOILERS **
 --------------------------------------------------------------------------------
 Hendecagon Analysis Ruby Scripts
 Matthew Webber 2012
