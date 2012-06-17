@@ -1,0 +1,606 @@
+-------------------------
+Printing Ordered Game Map
+ Rules:
+expandSinglesFully: no
+allowDoubleShrink:  no
+‒‒‒‒24 moves left (win states)
+2-1-1--1
+  suggested next move: 2-4-1 (23 left)
+3-3-2
+  suggested next move: 2-3-2 (23 left)
+  suggested next move: 3-2-2 (23 left)
+  suggested next move: 3-3-1 (23 left)
+2-2-2-1
+  suggested next move: 1-2-2-1 (23 left)
+2--1-1-1
+  suggested next move: 2-4-1 (23 left)
+4-3-1
+  suggested next move: 2-4-1 (23 left)
+  suggested next move: 3-3-1 (23 left)
+‒‒‒‒23 moves left (lose states)
+3-3-1
+  suggested next move: 2-3-1 (20 left)
+  suggested next move: 3-2--1 (22 left)
+  suggested next move: 2--3-1 (20 left)
+  suggested next move: 6-3 (20 left)
+  suggested next move: 3--2-1 (20 left)
+1-2-2-1
+  suggested next move: 1-2-1--1 (22 left)
+  suggested next move: 5-2-1 (22 left)
+  suggested next move: 2-1--1-1 (22 left)
+2-3-2
+  suggested next move: 2-2--2 (22 left)
+  suggested next move: 2-3-1 (20 left)
+  suggested next move: 3-2--1 (22 left)
+2-4-1
+  suggested next move: 1-4-1 (20 left)
+  suggested next move: 3-2--1 (22 left)
+  suggested next move: 2--3-1 (20 left)
+  suggested next move: 7-2 (20 left)
+  suggested next move: 4-1--1 (20 left)
+3-2-2
+  suggested next move: 2-2--2 (22 left)
+  suggested next move: 2-2-2 (20 left)
+  suggested next move: 3-2--1 (22 left)
+  suggested next move: 3-2-1 (20 left)
+  suggested next move: 2--3-1 (20 left)
+  suggested next move: 3--2-1 (20 left)
+‒‒‒‒22 moves left (win states)
+3-2--1
+  suggested next move: 2-2--1 (21 left)
+  suggested next move: 1-3--1 (21 left)
+2-2--2
+  suggested next move: 2-2--1 (21 left)
+  suggested next move: 2--2-1 (21 left)
+3-1-2
+  suggested next move: 2-1--2 (21 left)
+  suggested next move: 3-1--1 (21 left)
+1-1-1-1-1
+  suggested next move: 1-5-1 (21 left)
+  suggested next move: 4-1-1-1 (21 left)
+2-1--1-1
+  suggested next move: 1-1--1-1 (21 left)
+  suggested next move: 4-2-1 (21 left)
+4-2-2
+  suggested next move: 2-4-1 (23 left)
+  suggested next move: 3-2-2 (23 left)
+  suggested next move: 4-2-1 (21 left)
+5-2-1
+  suggested next move: 1-5-1 (21 left)
+  suggested next move: 4-2-1 (21 left)
+1-2-1--1
+  suggested next move: 1-5-1 (21 left)
+1-2-1-1
+  suggested next move: 1-1--1-1 (21 left)
+  suggested next move: 4-2-1 (21 left)
+‒‒‒‒21 moves left (lose states)
+1-1---1
+  suggested next move: 4--1 (12 left)
+  suggested next move: 4---1 (16 left)
+  suggested next move: 8-1 (20 left)
+1-5-1
+  suggested next move: 8-1 (20 left)
+  suggested next move: 4-1--1 (20 left)
+4-2-1
+  suggested next move: 3-2-1 (20 left)
+  suggested next move: 5-4 (20 left)
+  suggested next move: 4-1--1 (20 left)
+  suggested next move: 4--1-1 (20 left)
+  suggested next move: 3--2-1 (20 left)
+4-1-1-1
+  suggested next move: 3-1-1-1 (16 left)
+  suggested next move: 5-4 (20 left)
+  suggested next move: 8-1 (20 left)
+2--2-1
+  suggested next move: 2--1--1 (20 left)
+  suggested next move: 1-2--1 (18 left)
+  suggested next move: 2---1-1 (18 left)
+  suggested next move: 5--2 (18 left)
+  suggested next move: 2-1---1 (18 left)
+3-1-2-1
+  suggested next move: 2-1-2-1 (20 left)
+  suggested next move: 1-3-1-1 (14 left)
+  suggested next move: 8-1 (20 left)
+3-1--1
+  suggested next move: 2--1--1 (20 left)
+  suggested next move: 2-1--1 (14 left)
+  suggested next move: 6-3 (20 left)
+  suggested next move: 6-1 (12 left)
+2-1--2
+  suggested next move: 2-1--1 (14 left)
+  suggested next move: 2--1--1 (20 left)
+  suggested next move: 2--1-1 (14 left)
+  suggested next move: 5-2 (14 left)
+  suggested next move: 2-1---1 (18 left)
+1-3--1
+  suggested next move: 6--1 (18 left)
+  suggested next move: 1--2--1 (20 left)
+  suggested next move: 8-1 (20 left)
+  suggested next move: 2-1---1 (18 left)
+1-1--1-1
+  suggested next move: 4-1-1 (20 left)
+  suggested next move: 4--1-1 (20 left)
+2-2--1
+  suggested next move: 2--1--1 (20 left)
+  suggested next move: 1-2--1 (18 left)
+  suggested next move: 1--2--1 (20 left)
+  suggested next move: 7-2 (20 left)
+  suggested next move: 2-1---1 (18 left)
+3-2-1-1
+  suggested next move: 2-1-1-2 (16 left)
+  suggested next move: 2-2-1-1 (20 left)
+  suggested next move: 1-3-1-1 (14 left)
+  suggested next move: 3-1-1-1 (16 left)
+  suggested next move: 6-3 (20 left)
+  suggested next move: 7-2 (20 left)
+‒‒‒‒20 moves left (win states)
+2--1--1
+  suggested next move: 6-2 (19 left)
+4-1--1
+  suggested next move: 3-1--1 (21 left)
+  suggested next move: 7-1 (19 left)
+6-3
+  suggested next move: 5-3 (19 left)
+  suggested next move: 6-2 (19 left)
+2--3-1
+  suggested next move: 2-1--2 (21 left)
+  suggested next move: 3-1--1 (21 left)
+  suggested next move: 1-3--1 (21 left)
+  suggested next move: 6-2 (19 left)
+2-3-1
+  suggested next move: 1-3-1 (19 left)
+  suggested next move: 2-2--1 (21 left)
+  suggested next move: 1-3--1 (21 left)
+  suggested next move: 2--2-1 (21 left)
+  suggested next move: 6-2 (19 left)
+2-1-2-1
+  suggested next move: 7-1 (19 left)
+1-1--1--1
+  suggested next move: 7-1 (19 left)
+7-2
+  suggested next move: 6-2 (19 left)
+  suggested next move: 7-1 (19 left)
+3-2-1
+  suggested next move: 2-2-1 (19 left)
+  suggested next move: 3-1--1 (21 left)
+  suggested next move: 2--2-1 (21 left)
+  suggested next move: 5-3 (19 left)
+  suggested next move: 3--1-1 (19 left)
+1-4-1
+  suggested next move: 1-3--1 (21 left)
+  suggested next move: 7-1 (19 left)
+4-1-1
+  suggested next move: 4-4 (19 left)
+  suggested next move: 3--1-1 (19 left)
+8-1
+  suggested next move: 7-1 (19 left)
+3--2-1
+  suggested next move: 2-1--2 (21 left)
+  suggested next move: 2--2-1 (21 left)
+  suggested next move: 5-3 (19 left)
+  suggested next move: 3--1-1 (19 left)
+1--2--1
+  suggested next move: 7-1 (19 left)
+5-4
+  suggested next move: 4-4 (19 left)
+  suggested next move: 5-3 (19 left)
+4--1-1
+  suggested next move: 4-4 (19 left)
+  suggested next move: 3--1-1 (19 left)
+2-2-1-1
+  suggested next move: 6-2 (19 left)
+2-2-2
+  suggested next move: 2-1--2 (21 left)
+  suggested next move: 2-2--1 (21 left)
+  suggested next move: 2-2-1 (19 left)
+‒‒‒‒19 moves left (lose states)
+7-1
+  suggested next move: 6--1 (18 left)
+  suggested next move: 10 (12 left)
+  suggested next move: 6-1 (12 left)
+3--1-1
+  suggested next move: 2---1-1 (18 left)
+  suggested next move: 4--3 (18 left)
+  suggested next move: 2--1-1 (14 left)
+  suggested next move: 4-3 (16 left)
+4-4
+  suggested next move: 4--3 (18 left)
+  suggested next move: 4-3 (16 left)
+5-3
+  suggested next move: 4--3 (18 left)
+  suggested next move: 4-3 (16 left)
+  suggested next move: 5-2 (14 left)
+  suggested next move: 5--2 (18 left)
+2-2-1
+  suggested next move: 2-1--1 (14 left)
+  suggested next move: 1-2--1 (18 left)
+  suggested next move: 1-2-1 (14 left)
+  suggested next move: 2--1-1 (14 left)
+  suggested next move: 5-2 (14 left)
+6-2
+  suggested next move: 6--1 (18 left)
+  suggested next move: 6-1 (12 left)
+  suggested next move: 5--2 (18 left)
+  suggested next move: 5-2 (14 left)
+1-3-1
+  suggested next move: 1-2--1 (18 left)
+  suggested next move: 6-1 (12 left)
+‒‒‒‒18 moves left (win states)
+2-1---1
+  suggested next move: 5--1 (17 left)
+  suggested next move: 1-1---1 (21 left)
+2---1-1
+  suggested next move: 4--2 (17 left)
+  suggested next move: 1-1---1 (21 left)
+4--3
+  suggested next move: 3--3 (17 left)
+  suggested next move: 4--2 (17 left)
+1-2--1
+  suggested next move: 7-1 (19 left)
+  suggested next move: 5--1 (17 left)
+  suggested next move: 1-1---1 (21 left)
+5--2
+  suggested next move: 4--2 (17 left)
+  suggested next move: 5--1 (17 left)
+6--1
+  suggested next move: 5--1 (17 left)
+‒‒‒‒17 moves left (lose states)
+4--2
+  suggested next move: 3--2 (14 left)
+  suggested next move: 4--1 (12 left)
+  suggested next move: 3---2 (16 left)
+  suggested next move: 4---1 (16 left)
+5--1
+  suggested next move: 4--1 (12 left)
+  suggested next move: 4---1 (16 left)
+  suggested next move: 10 (12 left)
+3--3
+  suggested next move: 3--2 (14 left)
+  suggested next move: 3---2 (16 left)
+‒‒‒‒16 moves left (win states)
+2-1-1-2
+  suggested next move: 2-1-1-1 (15 left)
+  suggested next move: 6-2 (19 left)
+3-1-1-1
+  suggested next move: 2-1-1-1 (15 left)
+  suggested next move: 5-3 (19 left)
+  suggested next move: 7-1 (19 left)
+4---1
+  suggested next move: 3---1 (15 left)
+3---2
+  suggested next move: 2---2 (15 left)
+  suggested next move: 3---1 (15 left)
+4-3
+  suggested next move: 3--3 (17 left)
+  suggested next move: 4--2 (17 left)
+  suggested next move: 4-2 (15 left)
+  suggested next move: 3-3 (15 left)
+‒‒‒‒15 moves left (lose states)
+2---2
+  suggested next move: 2---1 (12 left)
+  suggested next move: 2----1 (14 left)
+3-3
+  suggested next move: 3--2 (14 left)
+  suggested next move: 3-2 (12 left)
+3---1
+  suggested next move: 2---1 (12 left)
+  suggested next move: 2----1 (14 left)
+  suggested next move: 10 (12 left)
+4-2
+  suggested next move: 3--2 (14 left)
+  suggested next move: 4--1 (12 left)
+  suggested next move: 4-1 (10 left)
+  suggested next move: 3-2 (12 left)
+2-1-1-1
+  suggested next move: 1-1-1-1 (14 left)
+  suggested next move: 1-1-1--1 (14 left)
+  suggested next move: 4-1-2 (12 left)
+  suggested next move: 6-1 (12 left)
+  suggested next move: 5-2 (14 left)
+‒‒‒‒14 moves left (win states)
+1-1-1--1
+  suggested next move: 6-1-1 (13 left)
+  suggested next move: 5--1 (17 left)
+2-1-1
+  suggested next move: 4-2 (15 left)
+  suggested next move: 1-1--1 (13 left)
+3--2
+  suggested next move: 2---2 (15 left)
+  suggested next move: 3--1 (13 left)
+  suggested next move: 3---1 (15 left)
+  suggested next move: 2--2 (13 left)
+2-1-1-1-1
+  suggested next move: 6-1-1 (13 left)
+5-2
+  suggested next move: 4--2 (17 left)
+  suggested next move: 4-2 (15 left)
+  suggested next move: 5-1 (13 left)
+  suggested next move: 5--1 (17 left)
+1-2-1
+  suggested next move: 5-1 (13 left)
+  suggested next move: 1-1--1 (13 left)
+2-1--1
+  suggested next move: 6-2 (19 left)
+  suggested next move: 5-1 (13 left)
+  suggested next move: 1-1--1 (13 left)
+1-1-1-1
+  suggested next move: 5-1 (13 left)
+2----1
+  suggested next move: 1----1 (13 left)
+2--1-1
+  suggested next move: 4--2 (17 left)
+  suggested next move: 4-2 (15 left)
+  suggested next move: 1-1--1 (13 left)
+  suggested next move: 1-1---1 (21 left)
+1-3-1-1
+  suggested next move: 6-1-1 (13 left)
+  suggested next move: 7-1 (19 left)
+‒‒‒‒13 moves left (lose states)
+6-1-1
+  suggested next move: 10 (12 left)
+  suggested next move: 5-1-1 (12 left)
+1-1--1
+  suggested next move: 4--1 (12 left)
+  suggested next move: 4-1 (10 left)
+  suggested next move: 6-1 (12 left)
+1----1
+  suggested next move: 10 (12 left)
+2--2
+  suggested next move: 2---1 (12 left)
+  suggested next move: 2--1 (10 left)
+3--1
+  suggested next move: 2---1 (12 left)
+  suggested next move: 8 (10 left)
+  suggested next move: 2--1 (10 left)
+5-1
+  suggested next move: 4--1 (12 left)
+  suggested next move: 4-1 (10 left)
+  suggested next move: 8 (10 left)
+‒‒‒‒12 moves left (win states)
+5-1-1
+  suggested next move: 9 (11 left)
+4--1
+  suggested next move: 3--1 (13 left)
+  suggested next move: 3---1 (15 left)
+  suggested next move: 9 (11 left)
+3-2
+  suggested next move: 3--1 (13 left)
+  suggested next move: 3-1 (11 left)
+  suggested next move: 2-2 (11 left)
+  suggested next move: 2--2 (13 left)
+3--1--1
+  suggested next move: 9 (11 left)
+6-1
+  suggested next move: 9 (11 left)
+  suggested next move: 5--1 (17 left)
+  suggested next move: 5-1 (13 left)
+3-1-3
+  suggested next move: 9 (11 left)
+2--2--1
+  suggested next move: 9 (11 left)
+1--1---1
+  suggested next move: 9 (11 left)
+2---1
+  suggested next move: 9 (11 left)
+  suggested next move: 1----1 (13 left)
+  suggested next move: 1---1 (11 left)
+10
+  suggested next move: 9 (11 left)
+4-1-2
+  suggested next move: 9 (11 left)
+‒‒‒‒11 moves left (lose states)
+2-2
+  suggested next move: 2-1 (8 left)
+  suggested next move: 2--1 (10 left)
+1---1
+  suggested next move: 8 (10 left)
+9
+  suggested next move: 8 (10 left)
+3-1
+  suggested next move: 2-1 (8 left)
+  suggested next move: 6 (8 left)
+  suggested next move: 2--1 (10 left)
+‒‒‒‒10 moves left (win states)
+4-1
+  suggested next move: 3--1 (13 left)
+  suggested next move: 3-1 (11 left)
+  suggested next move: 7 (9 left)
+8
+  suggested next move: 7 (9 left)
+2-1-2
+  suggested next move: 7 (9 left)
+2--1
+  suggested next move: 7 (9 left)
+  suggested next move: 1--1 (9 left)
+  suggested next move: 1---1 (11 left)
+1--1--1
+  suggested next move: 7 (9 left)
+3-1-1
+  suggested next move: 7 (9 left)
+‒‒‒‒9 moves left (lose states)
+7
+  suggested next move: 6 (8 left)
+1--1
+  suggested next move: 6 (8 left)
+‒‒‒‒8 moves left (win states)
+2-1
+  suggested next move: 1-1 (7 left)
+  suggested next move: 5 (7 left)
+  suggested next move: 1--1 (9 left)
+6
+  suggested next move: 5 (7 left)
+1-1-1
+  suggested next move: 5 (7 left)
+‒‒‒‒7 moves left (lose states)
+5
+  suggested next move: 4 (6 left)
+1-1
+  suggested next move: 4 (6 left)
+‒‒‒‒6 moves left (win states)
+4
+  suggested next move: 3 (5 left)
+‒‒‒‒5 moves left (lose states)
+3
+  suggested next move: 2 (4 left)
+‒‒‒‒4 moves left (win states)
+2
+  suggested next move: 1 (3 left)
+‒‒‒‒3 moves left (lose states)
+1
+  suggested next move: 11 (2 left)
+‒‒‒‒2 moves left (win states)
+11
+  suggested next move: 0 (1 left)
+‒‒‒‒1 moves left (lose states)
+0
+===================
+{ 351, 511, -1 },
+{ 427, 171, -1 },
+{ 79, 511, -1 },
+{ 343, 171, -1 },
+{ 375, 311, -1 },
+{ 127, 63, -1 },
+{ 149, 703, -1 },
+{ 43, 37, -1 },
+{ 383, 319, -1 },
+{ 15, 7, -1 },
+{ 99, 67, -1 },
+{ 1, 2047, -1 },
+{ 311, 155, 157 },
+{ 55, 23, 27 },
+{ 299, 379, -1 },
+{ 147, 447, -1 },
+{ 303, 383, -1 },
+{ 69, 767, -1 },
+{ 381, 767, 303 },
+{ 959, 479, 447 },
+{ 371, 447, -1 },
+{ 187, 93, 447 },
+{ 11, 5, 31 },
+{ 367, 183, 991 },
+{ 167, 163, 463 },
+{ 411, 155, 179 },
+{ 103, 39, 51 },
+{ 2047, 0, -1 },
+{ 215, 203, 151 },
+{ 363, 383, -1 },
+{ 683, 703, -1 },
+{ 223, 95, -1 },
+{ 295, 511, -1 },
+{ 687, 991, 767 },
+{ 341, 381, 687 },
+{ 293, 383, -1 },
+{ 703, 1023, 351 },
+{ 495, 463, -1 },
+{ 207, 199, 143 },
+{ 47, 127, -1 },
+{ 143, 71, -1 },
+{ 887, 443, 439 },
+{ 255, 127, -1 },
+{ 139, 159, -1 },
+{ 107, 127, -1 },
+{ 19, 127, 9 },
+{ 895, 447, 383 },
+{ 45, 95, 37 },
+{ 31, 15, -1 },
+{ 75, 95, 37 },
+{ 73, 127, -1 },
+{ 159, 143, -1 },
+{ 3, 1, -1 },
+{ 85, 95, -1 },
+{ 119, 103, -1 },
+{ 183, 91, 479 },
+{ 191, 511, -1 },
+{ 731, 365, -1 },
+{ 331, 165, 367 },
+{ 163, 207, -1 },
+{ 365, 301, 735 },
+{ 231, 199, -1 },
+{ 443, 411, 311 },
+{ 879, 367, -1 },
+{ 27, 19, -1 },
+{ 17, 255, -1 },
+{ 189, 383, -1 },
+{ 179, 147, -1 },
+{ 37, 79, 191 },
+{ 471, 511, -1 },
+{ 479, 463, 415 },
+{ 735, 381, 367 },
+{ 307, 511, -1 },
+{ 727, 363, 767 },
+{ 71, 67, -1 },
+{ 137, 511, -1 },
+{ 91, 77, -1 },
+{ 175, 495, 167 },
+{ 5, 15, -1 },
+{ 767, 383, -1 },
+{ 151, 147, 959 },
+{ 33, 1023, -1 },
+{ 301, 381, -1 },
+{ 463, 231, 207 },
+{ 111, 103, -1 },
+{ 511, 255, -1 },
+{ 171, 85, 149 },
+{ 77, 159, -1 },
+{ 67, 33, -1 },
+{ 63, 31, -1 },
+{ 51, 35, -1 },
+{ 415, 207, 159 },
+{ 7, 3, -1 },
+{ 339, 379, -1 },
+{ 203, 147, -1 },
+{ 157, 153, 767 },
+{ 751, 379, 375 },
+{ 23, 19, -1 },
+{ 379, 311, -1 },
+{ 359, 479, 167 },
+{ 35, 511, 17 },
+{ 0, -1, -1 },
+{ 439, 411, 311 },
+{ 447, 319, 415 },
+{ 21, 31, -1 },
+{ 165, 175, 335 },
+{ 155, 147, 153 },
+{ 153, 383, -1 },
+{ 695, 347, 959 },
+{ 39, 35, -1 },
+{ 1023, 511, -1 },
+{ 87, 127, -1 },
+{ 991, 495, 479 },
+{ 319, 159, -1 },
+{ 335, 495, 167 },
+{ 95, 79, -1 },
+{ 199, 99, 71 },
+{ 9, 63, -1 },
+{ 347, 447, -1 },
+{ 219, 91, -1 },
+{ 431, 511, -1 },
+{ 93, 77, -1 },
+{ 173, 165, 367 },
+{ 239, 111, 119 },
+{ 83, 37, -1 },
+{ 349, 703, -1 },
+-------------------------
+Do your decisions matter?
+ Rules:
+ expandSinglesFully: yes
+ allowDoubleShrink:  yes
+If you're winning, 89 of your decisions matter. 91 don't.
+-------------------------
+Do your decisions matter?
+ Rules:
+ expandSinglesFully: yes
+ allowDoubleShrink:  no
+If you're winning, 61 of your decisions matter. 78 don't.
+-------------------------
+Do your decisions matter?
+ Rules:
+ expandSinglesFully: no
+ allowDoubleShrink:  yes
+If you're winning, 77 of your decisions matter. 84 don't.
+-------------------------
+Do your decisions matter?
+ Rules:
+ expandSinglesFully: no
+ allowDoubleShrink:  no
+If you're winning, 45 of your decisions matter. 77 don't.
