@@ -3,9 +3,9 @@
 Hendecagon Analysis Ruby Scripts
 Matthew Webber 2012
 
-The Hendecagon is a game is a physical device about the size of a pie, with 11
-buttons that light up 11 pie-sliced wedges. You can read more (and see pictures)
-here: http://m.atthe.ws/portfolio/hendecagon/
+The Hendecagon is a puzzle game. It is a physical device about the size of a pie,
+with 11 buttons that light up 11 pie-sliced wedges. You can read more
+(and see pictures) here: http://m.atthe.ws/portfolio/hendecagon/
 
 This is a set of scripts to analyze feasibilty and design puzzles for that game.
 
